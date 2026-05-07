@@ -1,5 +1,5 @@
 {
-  "cerebras/qwen-3-32b": {
+  "PCAI/Qwen/Qwen3-8B": {
     "input_cost_per_token": 4e-2,
     "max_input_tokens": 128000,
     "max_output_tokens": 128000,
